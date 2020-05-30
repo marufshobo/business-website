@@ -21,7 +21,13 @@ html{
 .menu ul li a:hover::after{
     width: 100%;
 }
+
 .menu ul li{
     margin-right: 15px;
+}
+
+.btn-custom{
+    background-color: #7f1a38;
+    color: #ffffff;
 }
 /* header area end */
