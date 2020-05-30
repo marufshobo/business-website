@@ -116,3 +116,21 @@ html{
     color: #7f1a38;
 }
 /* about part design end */
+
+/* discover part start */
+.discover{
+    padding: 40px 0;
+    background: #32383d;
+    color: #ffffff;
+}
+.btn-customdesign2{
+    padding: 6px 20px;
+    display: inline-block;
+    border:2px solid #ffffff;
+    color: #ffffff;
+    font-weight: bold;
+}
+.btn-customdesign2:hover{
+    color: #ffffff;
+}
+/* discover part end*/
