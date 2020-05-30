@@ -156,3 +156,10 @@ html{
     
 }
 /* slider part end */
+
+/* footer area start */
+.footer-area{
+    padding: 40px 0;
+    font-size: 12px;
+}
+/* footer area end */
