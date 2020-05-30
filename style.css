@@ -71,3 +71,18 @@ html{
     margin-top: 10px;
 }
 /* banner part end */
+
+/* fetured area start */
+.fetured{
+    padding: 80px 0;
+}
+.content i{
+    font-size: 50px;
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+.content h2{
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+/* fetured area end */
